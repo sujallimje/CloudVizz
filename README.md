@@ -6,7 +6,7 @@ CloudVizz , Cloud Cost Visualization made simple
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kanishk3813/Mahakumbh_25.git
+   git clone https://github.com/CloudVizz/CloudVizz.git
 2. Change folder
     ```bash
     cd /cloudvizz/src
